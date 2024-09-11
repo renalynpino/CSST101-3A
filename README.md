@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/b0b2d518-5478-4c99-b362-71cf1895a935
 
 
-# Introduction to AI and Knowledge Representation
+# 1. Introduction to AI and Knowledge Representation
 Artificial Intelligence (AI) is a field of computer science 
 that aims to create machines and software capable of performing 
 tasks that normally require human intelligence, such as understanding 
@@ -17,7 +17,7 @@ knowledge they've gathered, much like how humans use facts and experience to
 make decisions. Without effective knowledge representation, AI wouldn't be 
 able to process information or make smart choices.
 
-#  Types of Knowledge Representation
+# 2. Types of Knowledge Representation
 ## Semantic Networks
  - Use nodes and links to show relationships between concepts.
 
@@ -40,7 +40,7 @@ Example: A medical ontology including terms like "disease," "symptom," and "trea
 Application in AI: Aids in understanding and reasoning about complex information across different areas.
 
 
-# Case Study Overview
+# 3. Case Study Overview
 ### Knowledge Representation: 
  -  Siri uses a network of concepts to understand user commands and questions. It organizes information
 into frames, such as "weather" or "reminder," with specific details like "temperature" or "time."
@@ -51,7 +51,7 @@ Ontologies help Siri understand different types of requests and their contexts.
 diverse and complex voice commands to perform tasks like setting reminders or answering questions, making
 interactions smoother and more intuitive.
 
-# Knowledge Representation Model
+# 4. Knowledge Representation Model
 ### Chosen AI Application:
 “Siri”
 
@@ -81,7 +81,7 @@ Connect "Location" to "Temperature" (e.g., New York is 75°F).
   Siri pulls these connections to understand the user's question and give a simple weather 
   answer (e.g., "It's sunny and 75°F in New York").
 
-# Conclusion
+# 5. Conclusion
   Effective knowledge representation is key for AI because it helps machines understand 
   and use information like people do. Without it, AI would have a hard time making sense 
   of things or making smart choices. From this, I learned that clear knowledge representation 
